@@ -1,1 +1,1 @@
-# MernStack
+# Mern Stack
